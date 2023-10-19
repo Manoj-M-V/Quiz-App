@@ -6,7 +6,9 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. It allo
 
 To run this Quiz App, follow these steps:
 
-1. Follow the website : 
+1. Follow the website : https://manoj-m-v.github.io/Quiz-App/
+
+OR
 
 1. Clone the repository to your local machine:
 
