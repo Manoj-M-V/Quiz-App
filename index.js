@@ -11,19 +11,19 @@ const questions = [
     {
         question: "What is my sister's name?",
         answers: [
-            { text: "Shan", correct: false },
-            { text: "Shanthala", correct: false },
-            { text: "Shanthala putti", correct: false },
-            { text: "Handi", correct: true },
+            { text: "dfb", correct: false },
+            { text: "fgngr", correct: false },
+            { text: "f vkf", correct: false },
+            { text: "sjndvkk", correct: true },
         ]
     },
     {
         question: "What is my mommy's name?",
         answers: [
-            { text: "Amma", correct: false },
-            { text: "Mummy", correct: false },
-            { text: "gummi", correct: false },
-            { text: "Mamdy", correct: true },
+            { text: " msf v ", correct: false },
+            { text: "Musjdnjvkmmy", correct: false },
+            { text: "gukfbvjhmmi", correct: false },
+            { text: "nsfkvksn", correct: true },
         ]
     },
     {
